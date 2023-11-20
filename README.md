@@ -26,9 +26,9 @@ If you need help getting git/GitHub to work with RStudio see: [Happy Git and Git
 
 ### Edit some key files (RStudio)
 
-- [ ] 1. In `index.Rmd`, change YOUR TITLE HERE to your title.
+- [ X] 1. In `index.Rmd`, change YOUR TITLE HERE to your title.
 
-- [ ] 2. In `index.Rmd`, change YOUR NAMES HERE to your names.
+- [ X] 2. In `index.Rmd`, change YOUR NAMES HERE to your names.
 
 - [ ] 3. In `_bookdown.yml`, change YOUR GITHUB USERNAME to your GitHub username in the two places it appears.
 
